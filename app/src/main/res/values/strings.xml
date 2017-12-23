@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KH Cinema</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="cd_movies_list">Movie List</string>
+    <string name="cd_movie_name">Name of the movie</string>
+    <string name="loading_movies">Loading Movie</string>
+
+</resources>
